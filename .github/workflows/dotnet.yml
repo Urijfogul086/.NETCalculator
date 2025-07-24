@@ -9,9 +9,9 @@ on:
   pull_request:
     branches: [ "main" ]
 
-jobs: Urijfogul086
-
-    runs-on: Windows
+jobs: Urijfogul086GTM
+    
+    runs-on: windows-latest
 
     steps:
     - uses: actions/checkout@v1
